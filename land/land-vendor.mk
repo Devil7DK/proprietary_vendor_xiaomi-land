@@ -1547,4 +1547,6 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne.api-V1.0-java \
     com.quicinc.cne \
     vendor.qti.hardware.alarm-V1.0-java \
-    vendor.qti.hardware.sensorscalibrate-V1.0-java
+    vendor.qti.hardware.sensorscalibrate-V1.0-java \
+    QPerformance \
+    UxPerformance
